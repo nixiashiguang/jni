@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ndk_jni.iml" filepath="$PROJECT_DIR$/Ndk_jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradlecompile/gradlecompile.iml" filepath="$PROJECT_DIR$/gradlecompile/gradlecompile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jnichapter/jnichapter.iml" filepath="$PROJECT_DIR$/jnichapter/jnichapter.iml" />
+    </modules>
+  </component>
+</project>
